@@ -1,0 +1,24 @@
+{
+  "name": "socket.io-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obaidmuneer/socket.io-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obaidmuneer/socket.io-server/issues"
+  },
+  "homepage": "https://github.com/obaidmuneer/socket.io-server#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "socket.io": "^4.5.2"
+  }
+}
